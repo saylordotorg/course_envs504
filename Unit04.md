@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS504: Society, Economy, and the Environment"
+course_description: "This course will use a complex systems theory perspective to investigate how coupled human-environment systems interact to either increase or decrease their risk of collapse. This complex systems approach works across many disciplines, so that human-environment linkages can be understood from sociological, environmental science, and economic viewpoints."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Food Systems** <span id="4"></span> 
 *Aside from water, food is one of the most basic and important resources
 for all species, humans included.  As human societies have transitioned

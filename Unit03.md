@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS504: Society, Economy, and the Environment"
+course_description: "This course will use a complex systems theory perspective to investigate how coupled human-environment systems interact to either increase or decrease their risk of collapse. This complex systems approach works across many disciplines, so that human-environment linkages can be understood from sociological, environmental science, and economic viewpoints."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Anthropogenic Climate Change and Energy Resources** <span
 id="3"></span> 
 *Although in the past, climate change has been linked to volcanic

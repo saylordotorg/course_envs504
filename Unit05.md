@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS504: Society, Economy, and the Environment"
+course_description: "This course will use a complex systems theory perspective to investigate how coupled human-environment systems interact to either increase or decrease their risk of collapse. This complex systems approach works across many disciplines, so that human-environment linkages can be understood from sociological, environmental science, and economic viewpoints."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Loss of Biodiversity, Cultural Diversity, and Ecosystem
 Functions** <span id="5"></span> 
 *Biodiversity (the number and abundance of different species of

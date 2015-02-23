@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS504: Society, Economy, and the Environment"
+course_description: "This course will use a complex systems theory perspective to investigate how coupled human-environment systems interact to either increase or decrease their risk of collapse. This complex systems approach works across many disciplines, so that human-environment linkages can be understood from sociological, environmental science, and economic viewpoints."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Carrying Capacity: Overpopulation and Consumption** <span
 id="7"></span> 
 *In late 2011, the global human population exceeded 7 billion people;

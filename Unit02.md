@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS504: Society, Economy, and the Environment"
+course_description: "This course will use a complex systems theory perspective to investigate how coupled human-environment systems interact to either increase or decrease their risk of collapse. This complex systems approach works across many disciplines, so that human-environment linkages can be understood from sociological, environmental science, and economic viewpoints."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Societal Collapse** <span id="2"></span> 
 *In 1988, the anthropologist Dr. Joseph Tainter published his book,* The
 Collapse of Complex Societies*, which described de-evolution of ancient

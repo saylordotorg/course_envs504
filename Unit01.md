@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS504: Society, Economy, and the Environment"
+course_description: "This course will use a complex systems theory perspective to investigate how coupled human-environment systems interact to either increase or decrease their risk of collapse. This complex systems approach works across many disciplines, so that human-environment linkages can be understood from sociological, environmental science, and economic viewpoints."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Complex Systems Theory** <span id="1"></span> 
 *Many of the crises and catastrophes that human societies have faced
 have seemed catastrophic, because humans typically assume that systems

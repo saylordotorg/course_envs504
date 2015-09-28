@@ -178,3 +178,4 @@ subunit 1.1 (a total of 3.75 hours) on Monday night; subunits 1.2 and
 - [Unit 9](https://legacy.saylor.org/envs504/Unit09/)
 - [Unit 10](https://legacy.saylor.org/envs504/Unit10/)
 - [Unit 11](https://legacy.saylor.org/envs504/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/ENVS504/ENVS504-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/ENVS504/ENVS504-FinalExam-Answers.html)
